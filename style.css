@@ -1,0 +1,49 @@
+.box{
+  transition: background-color 200ms cubic-bezier(0,0,0.2,1);
+  background-color: #fff;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  margin-bottom: 12px;
+  padding: 24px;
+  page-break-inside: avoid;
+  word-wrap: break-word;
+}
+
+body{
+  background-color: #ede7f6;
+}
+
+.my-form{
+
+  display: block;
+  margin:auto;
+}
+
+table{
+  table-layout:fixed;
+}
+
+
+
+input[type=radio] {
+  margin-left: 80% !important;
+  size: medium;
+} 
+
+
+
+th{
+  font-size: medium;
+}
+
+.target{
+  padding: 0 30px;
+}
+
+
+@media only screen and (max-width: 1000px) {
+  th{
+    font-size:x-small;
+  }
+  
+}
