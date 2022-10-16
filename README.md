@@ -47,9 +47,11 @@ These forms are uploaded to the system and the candidate evaluation process begi
 
 ## Running this web application
   
- - make sure you already have xampp or wamp installed if you are on windows machine, mamp for mac , and lamp for linux.
-clone this repository to your local machine or just download the zip.
+ - make sure you already have *xampp* or *wamp* installed if you are on windows machine, *mamp* for mac , and *lamp* for linux.
+Clone this repository to your local machine or just download the zip.
 
+ - Import the employeeDB.sql file inside database folder.
+ 
  - rename “.env.example” to “.env” and add your database and mail driver credentials.
 
      ***NOTE***: The "EMAILPASSWORD" variable in the ".env.example" file is not the password for your gmail account. You need to get a password to send
