@@ -49,8 +49,8 @@
                     </div>
 
 
-                    <div class="col-4">
-                        <button type="submit" class="btn btn-primary btn-block">Giriş Yap</button>
+                    <div class="col-4 float-right">
+                        <button type="submit" class="btn btn-primary btn-block ">Login</button>
                     </div>
                 </form>
 

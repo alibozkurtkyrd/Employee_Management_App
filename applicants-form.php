@@ -107,7 +107,7 @@
 
 
                     <div class="form-group box">
-                        <label for="exampleFormControlFile1">Upload your CV<span style="color:red;">*</span></label>
+                        <label for="exampleFormControlFile1">Upload your CV (pdf or docx)<span style="color:red;">*</span></label>
                         <input type="file" class="form-control-file" name="cv" required>
                     </div>
 
@@ -133,7 +133,7 @@
 
 
                     <div class="box">
-                        <p>Choose your knowledge level<span
+                        <p>Choose your programming knowledge level<span
                                 style="color:red;">*</span></p>
 
                         <div class="container out">
@@ -203,7 +203,7 @@
 
 
                     <button class="btn btn-primary btn-lg btn-block" name="submit" id="btn-submit"
-                        type="submit">Gönder</button>
+                        type="submit">Submit</button>
                 </form>
             </div>
         </div>

@@ -204,7 +204,7 @@ if(isset($_POST["submit"])){
     
     
                 <div class="box">
-                  <p>Choose your knowledge level<span style="color:red;">*</span></p>
+                  <p>Choose your programming knowledge level<span style="color:red;">*</span></p>
     
                   <div class="container out">
     
@@ -229,7 +229,7 @@ HEREA;
 //this variables helps us while listing applicants in list.php
 $modalHelper=<<<HEREA
               <div class="box">
-              <p>Aşağıdaki kodlama, betik dilleri, kütüphanelerden bilgi düzeylerinizi seçiniz<span style="color:red;">*</span></p>
+              <p>Choose your programming knowledge level<span style="color:red;">*</span></p>
 
               <div class="container out">
 

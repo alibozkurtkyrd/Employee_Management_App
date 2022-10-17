@@ -190,10 +190,8 @@ $(function() {
         "responsive": true,
         "lengthChange": true,
         "autoWidth": false,
-        buttons: true,
-        // "language": {
-        //     "url": "https://cdn.datatables.net/plug-ins/1.10.20/i18n/Turkish.json"
-        // },
+        buttons: false,
+      
         "initComplete": function() {
             setTimeout(function() {
                 myTable.buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');

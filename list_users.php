@@ -247,6 +247,7 @@ $(document).ready(function() {
             "lengthChange": true,
             "autoWidth": false,
             "paging": true,
+            buttons: true,
             columnDefs: [
 
                 {
