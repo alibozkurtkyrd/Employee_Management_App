@@ -128,7 +128,7 @@ if(!isset($_SESSION['oturum'])){
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="logout.php" role="button" data-toggle="tooltip" data-placement="bottom"
-                        title="Çıkış">
+                        title="Logout">
                         <i href="logout.php" class="fas fa-arrow-right-from-bracket"></i>
 
                     </a>

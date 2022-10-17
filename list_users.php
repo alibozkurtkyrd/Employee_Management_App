@@ -298,14 +298,14 @@ $(document).ready(function() {
 
         bootbox.confirm({
 
-            message: "Seçili kaydı silmek istiyor musunuz?",
+            message: "Do you want to delete the selected record?",
             buttons: {
                 confirm: {
-                    label: 'Sil',
+                    label: 'Delete',
                     className: 'btn-danger'
                 },
                 cancel: {
-                    label: 'İptal',
+                    label: 'Cancel',
                     className: 'btn-secondary'
                 }
             },
