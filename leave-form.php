@@ -49,7 +49,7 @@ $sorgu = $baglanti->query("SELECT * FROM Applicants");
                                     </select>
                                 </div>
                                 <div class="form-group">
-                                    <label for="exampleFormControlSelect1">İzin Nedeniniz: </label>
+                                    <label for="exampleFormControlSelect1">Reason</label>
                                     <select class="form-control" name="reason" id="exampleFormControlSelect1">
                                         <option>Medical</option>
                                         <!-- <option>Resmi Kurum</option> -->

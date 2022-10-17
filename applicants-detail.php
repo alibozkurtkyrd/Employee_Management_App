@@ -116,7 +116,7 @@ $sorgu2= $baglanti->query("SELECT * FROM applicant_admin where admin_id=$adminId
                             enctype="multipart/form-data">
 
                             <div class="form-group">
-                                <label for="exampleFormControlTextarea1">Yorum ekle</label>
+                                <label for="exampleFormControlTextarea1">Comment</label>
                                 <textarea class="form-control" id="exampleFormControlTextarea1" name="comment"
                                     placeholder="<?=$cikti2["comment"]?>" rows="3"></textarea>
                             </div>
