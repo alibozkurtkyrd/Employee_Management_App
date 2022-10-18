@@ -5,7 +5,7 @@ It's a php web development app
 These system divided into ***3*** modules;
 
 
-1. Admin Module
+1. Adminlte Dashboard Module
    - Admin can add,edit and delete the employee.
 
 2. Applicant Module
