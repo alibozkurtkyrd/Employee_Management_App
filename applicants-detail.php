@@ -68,7 +68,7 @@ $sorgu2= $baglanti->query("SELECT * FROM applicant_admin where admin_id=$adminId
 
                             </ul>
 
-                            <a href="applicants.php" class="btn btn-primary btn-block"><b>Geri</b></a>
+                            <a href="applicants.php" class="btn btn-primary btn-block"><b>Back</b></a>
                         </div>
                         <!-- /.card-body -->
                     </div>
