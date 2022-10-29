@@ -57,10 +57,12 @@ Clone this repository to your local machine or just download the zip.
      ***NOTE***: The "EMAILPASSWORD" variable in the ".env.example" file is not the password for your gmail account. You need to get a password to send
           mail. One of the option  to get the password from your gmail account is use “2 step verification”. For more information  watch videos below;
            
-         - [vidoe1](https://youtu.be/9tD8lA9foxw).
-         - [vidoe2](https://youtu.be/Mj6Du3X5fXQ).
+         - https://youtu.be/9tD8lA9foxw
+         - https://youtu.be/Mj6Du3X5fXQ
 
 ## Admin Credentials
    - *Email:* baris@manco.com
    - *Password:* baris
 
+
+for more information check [video](https://youtu.be/veXmaxwSMYg)
